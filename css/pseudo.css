@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding:0;
+}
+
+a {
+    font-size: 100px;
+}
+a#second:link {
+    color: palegreen;
+    font-size: 300px;
+}
+
+a#second:visited {
+    color: red;
+    font-size: 50px;
+}
+
+a#second:hover {
+    font-size: 200px;
+    color: aqua;
+    text-decoration: none;
+}
+
+a#second:active {
+    font-size: 100px;
+    color: chartreuse;
+    font-family: "Arial Narrow",serif;
+}

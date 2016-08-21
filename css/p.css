@@ -1,0 +1,10 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+p:first-of-type::first-letter {
+
+    font-size: 4em;
+    font-family: Andalus,serif;
+}
